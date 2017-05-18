@@ -7,3 +7,6 @@ https://en.wikipedia.org/wiki/Activation_function
 
 # Protein
 http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02608
+
+# Bash Command Cheat Sheet
+https://gist.github.com/LeCoupa/122b12050f5fb267e75f
